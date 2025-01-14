@@ -48,8 +48,8 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
    ```bash
    cd ApiForoHub
 
-3. Asegúrate de tener Mysql y Java IDEA | JDK instalados.
-4. Configura la base de datos en el archivo application.properties.
+3. Asegúrate de tener Mysql y Java IDEA(Intellij,etc) | JDK instalados.
+4. Configura  el archivo application.properties.(BD,Secret,etc)
 5. Diagrama BD
    
 
@@ -63,7 +63,7 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 
  ## Uso
 
-  Las pruebas a las solicitudes Http a las entidades se pueden hacer con una app con Postmnan o Insomnia o usar
+  Las pruebas a las solicitudes Http a las entidades se pueden hacer con una app como Postmnan o Insomnia o usar
   Swagger usando la URL ya liberada para su documentación : /swagger-ui/index.html#/
 
   
@@ -117,6 +117,4 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 ## Expresiones de Gratitud 🎁
 
 * Desafio realizado gracias a  [Alura Latam](https://www.aluracursos.com/) y su grupo de instructores.
-* Instructora: [Génesys Rondón](https://github.com/genesysrm)
-
 
